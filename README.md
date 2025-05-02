@@ -29,4 +29,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2127-employees-whose-manager-left-the-company](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2127-employees-whose-manager-left-the-company) |
+## Two Pointers
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0868-push-dominoes) |
+## String
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0868-push-dominoes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
