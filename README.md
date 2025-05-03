@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0626-exchange-seats](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0626-exchange-seats) |
+| [1452-restaurant-growth](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1480-movie-rating) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Two Pointers
