@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [2048-build-array-from-permutation](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Binary Search
 |  |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
