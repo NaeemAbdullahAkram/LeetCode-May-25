@@ -52,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3637-count-number-of-balanced-permutations) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0868-push-dominoes) |
+| [3637-count-number-of-balanced-permutations](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3637-count-number-of-balanced-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Math
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3637-count-number-of-balanced-permutations) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
