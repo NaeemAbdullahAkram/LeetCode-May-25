@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
