@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0868-push-dominoes) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1894-merge-strings-alternately) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1146-greatest-common-divisor-of-strings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3637-count-number-of-balanced-permutations) |
