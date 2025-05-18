@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1293-three-consecutive-odds) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2048-build-array-from-permutation](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2215-finding-3-digit-even-numbers) |
