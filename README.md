@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0075-sort-colors) |
 | [0605-can-place-flowers](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0605-can-place-flowers) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0073-set-matrix-zeroes) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0073-set-matrix-zeroes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
