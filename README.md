@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0075-sort-colors) |
+| [0238-product-of-array-except-self](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0605-can-place-flowers) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0238-product-of-array-except-self) |
 | [3639-zero-array-transformation-i](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
