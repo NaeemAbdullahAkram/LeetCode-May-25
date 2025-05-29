@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0868-push-dominoes) |
 | [1894-merge-strings-alternately](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1894-merge-strings-alternately) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0868-push-dominoes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0392-is-subsequence) |
 | [0806-domino-and-tromino-tiling](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0868-push-dominoes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1986-largest-color-value-in-a-directed-graph) |
