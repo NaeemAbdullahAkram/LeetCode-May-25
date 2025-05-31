@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1293-three-consecutive-odds) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2048-build-array-from-permutation](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2215-finding-3-digit-even-numbers) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0075-sort-colors) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2215-finding-3-digit-even-numbers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0868-push-dominoes) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/0073-set-matrix-zeroes) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/NaeemAbdullahAkram/LeetCode-May-25/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
